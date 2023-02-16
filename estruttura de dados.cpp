@@ -100,7 +100,7 @@ int main(){
 						parar = 1;
 					}
 				}	
-					break;
+			break;
 				}
 		}
 	}
